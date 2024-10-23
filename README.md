@@ -1,7 +1,7 @@
 <html>
   <body>
   <head>резюме</head>
-<title>Мамай Әліби</title>
+<h4>Мамай Әліби</h4>
 <h4>телефон: 870894947806</h4>
 <h4>gmail: mamajalibi828@gmail.com</h4>
 <h4>город: Алматы</h4>
